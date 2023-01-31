@@ -45,7 +45,7 @@ const LordThi = {
 
 <div>
 <a align='left' href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordThi&hide_title=1&count_private=false&layout=compact&theme=gradient" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordThi&hide_title=1&count_private=false&layout=compact&theme=radical" alt="Top Langs" />
 </a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LordThi&theme=gradient&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LordThi&theme=radical&show_icons=true" />
 </div>
