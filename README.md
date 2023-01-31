@@ -3,7 +3,7 @@
 ```js
 const LordThi = {
     name: [Thibaut, Livigni],
-    interest: "clean code",
+    interest: "why things work and how",
     preferences: "Front-end",
     looking: "a minimum two month internship",
     location: [Paris, Toulon],
