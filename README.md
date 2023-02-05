@@ -53,3 +53,6 @@ const LordThi = {
 </a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=LordThi&theme=radical&show_icons=true" />
 </div>
+
+![Codewars](https://github.r2v.ch/codewars?user=LordThi&stroke=%23BB432C)
+
