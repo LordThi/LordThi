@@ -13,6 +13,9 @@ const LordThi = {
     },
 }
 ```
+<h2>Guide Git</h2>
+<p>J'ai créé ce petit guide pour expliquer git à mes camarades de formation. S'il vous intéresse 👇</p>
+ <a href="https://github.com/LordThi/git-documentation-end_of_studies_project">Guide Git</a>
 
 <h2>🖥️</h2>
 
@@ -30,6 +33,9 @@ const LordThi = {
         <img src="https://camo.githubusercontent.com/0ec502bf2b38292c5165306be285de999f3863d1c87032b478108caeb03c021c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64655f6a732d2532333333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="NodeJS">
         <img src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="Postgres">
         <img src="https://camo.githubusercontent.com/c873c021be6e69f1ec54a965a7e3346dff063c83824022b1753ba8b071b53132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f74696f6e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465" alt="Notion">
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        
 
  </div>
  
