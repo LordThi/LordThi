@@ -5,7 +5,7 @@ const LordThi = {
     name: [Thibaut, Livigni],
     interest: "why things work and how",
     preferences: "Front-end",
-    looking: "a minimum two month internship",
+    looking: "Fullstack JS",
     location: [Paris, Toulon],
     contact: {
         linkedin : "https://www.linkedin.com/in/thibautlivigni/",
