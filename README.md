@@ -15,7 +15,9 @@ const LordThi = {
 ```
 <h2>Guide Git</h2>
 <p>J'ai créé ce petit guide pour expliquer git à mes camarades de formation. S'il vous intéresse 👇</p>
- <a href="https://github.com/LordThi/git-documentation-end_of_studies_project">Guide Git</a>
+<div style={{display: 'flex',flexDirection: 'row'}}><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LordThi/git-documentation-end_of_studies_project">&nbsp;<a href="https://github.com/LordThi/git-documentation-end_of_studies_project">Guide Git</a></div>
+
+
 
 <h2>🖥️</h2>
 
