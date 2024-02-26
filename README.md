@@ -4,9 +4,8 @@
 const LordThi = {
     name: [Thibaut, Livigni],
     interest: "why things work and how",
-    preferences: "Front-end",
     looking: "Fullstack JS",
-    location: [Paris, Toulon],
+    location: [Toulon (83)],
     contact: {
         linkedin : "https://www.linkedin.com/in/thibautlivigni/",
         mail: "thibaut.livigni@gmail.com",
