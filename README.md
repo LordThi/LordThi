@@ -4,10 +4,10 @@
 const LordThi = {
     name: [Thibaut, Livigni],
     interest: "why things work and how",
-    looking: {
-        "Fullstack JS - React - Redux - Express.js"
+    looking: [
+        "Fullstack JS - React - Redux - Express.js",
         "Fullstack mixed - React - Symfony"
-    },
+    ],
     location: [Toulon (83)],
     contact: {
         linkedin : "https://www.linkedin.com/in/thibautlivigni/",
