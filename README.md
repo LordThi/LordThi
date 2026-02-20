@@ -25,7 +25,7 @@ const LordThi = {
 <h2>Old Stared Projects ⭐️</h2>
 <h3>⚀ Guide Git</h3>
 <p>J'ai créé ce petit guide pour expliquer git à mes camarades de formation. S'il vous intéresse 👇</p>
-<div style={{display: 'flex',flexDirection: 'row'}}><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LordThi/git-documentation-end_of_studies_project">&nbsp;<a href="https://github.com/LordThi/git-documentation-end_of_studies_project">Guide Git</a></div>
+<div style={{display: 'flex',flexDirection: 'row'}}><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LordThi/git-documentation-end_of_studies_project">&nbsp;<a href="https://github.com/LordThi/git-documentation-end_of_studies_project">Immo Trainer</a></div>
 <h3>⚀ BabyBirthGames</h3>
 <p>Online - <i>Opensource</i></p>
 <p>Ce projet est initialement prévu pour un usage personnel dans le cadre de l'annonce du prénom de ma fille à sa naissance à toute ma famille. C'est une sorte de Motus sous forme de boite de dialogue. Plus de détails 👇</p>
