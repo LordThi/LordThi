@@ -16,7 +16,13 @@ const LordThi = {
     },
 }
 ```
-<h2>Stared Projects ⭐️</h2>
+<h2>2026 Project</h2>
+<h3>⚀ ImmoTrainer</h3>
+<p>Offline - <i>Open</i></p>
+<p>Un jeu pour s’entraîner à estimer le prix d’un bien immobilier</p>
+<a href="https://github.com/LordThi/immotrainer">Guide Git</a>
+
+<h2>Old Stared Projects ⭐️</h2>
 <h3>⚀ Guide Git</h3>
 <p>J'ai créé ce petit guide pour expliquer git à mes camarades de formation. S'il vous intéresse 👇</p>
 <div style={{display: 'flex',flexDirection: 'row'}}><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LordThi/git-documentation-end_of_studies_project">&nbsp;<a href="https://github.com/LordThi/git-documentation-end_of_studies_project">Guide Git</a></div>
@@ -25,7 +31,7 @@ const LordThi = {
 <p>Ce projet est initialement prévu pour un usage personnel dans le cadre de l'annonce du prénom de ma fille à sa naissance à toute ma famille. C'est une sorte de Motus sous forme de boite de dialogue. Plus de détails 👇</p>
 <div style={{display: 'flex',flexDirection: 'row'}}><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LordThi/babybirthgames">&nbsp;<a href="https://github.com/LordThi/babybirthgames">BabyBirthGames</a></div>
 
-<h2>Other Loved Projects ❤️</h2>
+<h2>Old Other Loved Projects ❤️</h2>
 <h3>⚀ FulfilledLife</h3>
 <p>Offline - <i>Opensource</i></p>
 <p>Ce projet a pour but de générer des statistiques graphiques sur la vie de l'user en fonction de dates clés qu'il aura renseignés (date de naissance, temps de vive total passé dans différentes études, temps passé sur un projet de vie, temps passé avec un proche sur toute une vie, etc...). Cela permet de relativiser le temps qui nous parait long ou au contraire montrer que la vie est finalement plus remplie qu'on ne le pense 👇</p>
