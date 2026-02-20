@@ -20,7 +20,11 @@ const LordThi = {
 <h3>⚀ ImmoTrainer</h3>
 <p>Offline - <i>Open</i></p>
 <p>Un jeu pour s’entraîner à estimer le prix d’un bien immobilier</p>
-<a href="https://github.com/LordThi/immotrainer">Guide Git</a>
+<div style={{display:'flex';flexDirection:'row'}}>
+    <a href="https://github.com/LordThi/immotrainer">Github Repository</a>
+    &nbsp;|&nbsp;
+    <a href="https://github.com/users/LordThi/projects/3/">Github Project</a>
+</div>
 
 <h2>Old Stared Projects ⭐️</h2>
 <h3>⚀ Guide Git</h3>
