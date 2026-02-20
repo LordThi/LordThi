@@ -23,7 +23,7 @@ const LordThi = {
 <div style={{display:'flex';flexDirection:'row'}}>
     <a href="https://github.com/LordThi/immotrainer">Github Repository</a>
     &nbsp;|&nbsp;
-    <a href="https://github.com/users/LordThi/projects/3/">Github Project</a>
+    <a href="https://trello.com/b/AdxjLOVL/immotrainer">Trello</a>
 </div>
 
 <h2>Old Stared Projects ⭐️</h2>
