@@ -18,12 +18,14 @@ const LordThi = {
 ```
 <h2>2026 Project</h2>
 <h3>⚀ ImmoTrainer</h3>
-<p>Offline - <i>Open</i></p>
+<p>Online - <i>Open</i></p>
 <p>Un jeu pour s’entraîner à estimer le prix d’un bien immobilier</p>
 <div style={{display:'flex';flexDirection:'row'}}>
     <a href="https://github.com/LordThi/immotrainer">Github Repository</a>
     &nbsp;|&nbsp;
     <a href="https://trello.com/b/AdxjLOVL/immotrainer">Trello</a>
+    &nbsp;|&nbsp;
+    <a href="immotrainer.up.railway.app">Demo online</a>
 </div>
 
 <h2>Old Stared Projects ⭐️</h2>
