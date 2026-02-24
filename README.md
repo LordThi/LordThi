@@ -18,7 +18,7 @@ const LordThi = {
 ```
 <h2>2026 Project</h2>
 
-<h3>⚀ ImmoTrainer</h3>
+<h3>⚀ SlackSpotifyStatusr</h3>
 <p>local - <i>Open</i></p>
 <p>Un script python pour afficher en statut Slack la musique en cours d'écoute sur Spotify</p>
 <div style={{display:'flex';flexDirection:'row'}}>
